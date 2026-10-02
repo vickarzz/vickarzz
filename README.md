@@ -5,7 +5,7 @@
 - 🏆 **CDMP Master** – DAMA International
 - 🎓 **Microsoft Certified:** Fabric Analytics Engineer (DP-600) · Fabric Data Engineer (DP-700) · Power BI Data Analyst (PL-300) 
 - 🤖 **Oracle Foundations Associate:** Agentic AI · OCI · OCI AI · Oracle Fusion AI Agent Studio
-- 🌐 [LinkedIn](www.linkedin.com/in/ahmad-zulfikar-rafsanjani-21b296174) · [Email](mailto:a.zulfikar.r@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ahmad-zulfikar-rafsanjani-21b296174) · [Email](mailto:a.zulfikar.r@gmail.com)
 
 ---
 
