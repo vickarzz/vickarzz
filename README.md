@@ -12,7 +12,7 @@
 #### 📜 Certifications
 
 **Data Management & Governance**
-- 🏆 [CDMP Master – DAMA International (Fundamentals 91% · Data Quality 83% · Data Governance 84%)](https://certificates.cdmp.info/2973c59e-a36c-4555-ac20-e9a35e22f13b#acc.YEbBrRVs)
+- 🏆 [CDMP Master – DAMA International (Fundamentals 91% · Data Quality 83% · Data Governance 84%)](https://certificates.cdmp.info/d861a980-bc43-4b9b-94bf-6f97b3f4493d#acc.8APqXHLD)
 
 **Microsoft**
 - 🎓 [Fabric Analytics Engineer Associate (DP-600)](https://learn.microsoft.com/api/credentials/share/en-us/RafsaZulfikar-9425/95B1A35BDB49BCA?sharingId)
